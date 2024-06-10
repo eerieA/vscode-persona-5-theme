@@ -2,18 +2,23 @@
   "name": "persona-5-theme",
   "icon": "resources/icon.png",
   "displayName": "Persona 5 theme",
-  "description": "A dark theme based on colors from Persona 5 game",
+  "description": "A dark theme based on color palette from Atlus' Persona 5 game",
   "galleryBanner": {
     "color": "#cb2f2f",
     "theme": "dark"
   },
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "publisher": "ninjaqwert-2239-indie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eerieA/vscode-persona-5-theme.git"
+  },
   "contributes": {
     "themes": [
       {
@@ -22,10 +27,5 @@
         "path": "./themes/Persona 5 dark-color-theme.json"
       }
     ]
-  },
-  "publisher": "ninjaqwert-2239-indie",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/eerieA/vscode-persona-5-theme.git"
   }
 }
