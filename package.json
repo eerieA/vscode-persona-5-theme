@@ -1,13 +1,13 @@
 {
   "name": "persona-5-theme",
-  "icon": "resources/icon.png",
+  "icon": "media/icon.png",
   "displayName": "Persona 5 theme",
   "description": "A dark theme based on color palette from Atlus' Persona 5 game",
   "galleryBanner": {
     "color": "#cb2f2f",
     "theme": "dark"
   },
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.74.0"
   },
